@@ -14,3 +14,5 @@
 - [卡片管理](assets/screenshots/07-card-management.png)
 
 项目说明通过维护者提供的介绍页链接访问。源码单独保存在私有仓库，未提供开源授权。
+
+网页预览使用逐像素核对的无损WebP，PNG保留高清原图。
