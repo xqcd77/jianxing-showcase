@@ -4,7 +4,11 @@
 
 全部界面资金、产品、用户和操作均为合成沙箱数据，不产生真实银行扣款。截图通过实际本地UI与API生成；它们属于可复现演示模式，不代表业务模型的评测分数。
 
-- [系统架构海报](assets/jianxing-poster.png)
+## 项目海报
+
+![简行：银行多智能体研究与评测架构海报](assets/jianxing-poster.webp)
+
+## 产品界面
 - [工作台](assets/screenshots/01-workspace.png)
 - [计划、资金预检与DAG](assets/screenshots/02-plan-and-funding.png)
 - [强验证与回执](assets/screenshots/03-verification.png)
