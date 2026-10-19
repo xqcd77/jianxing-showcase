@@ -6,7 +6,7 @@
 
 ## 项目海报
 
-![简行：银行多智能体研究与评测架构海报](assets/jianxing-poster.webp)
+![简行：银行多智能体协作系统信息图](assets/jianxing-poster.webp)
 
 ## 产品界面
 - [工作台](assets/screenshots/01-workspace.png)
