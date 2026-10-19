@@ -6,7 +6,7 @@
 
 ## 项目海报
 
-![简行：银行多智能体协作系统信息图](https://raw.githubusercontent.com/xqcd77/jianxing-showcase/29151797929cb06507273890453d7ca443e67401/assets/jianxing-poster.webp)
+![简行：银行多智能体系统全景图](assets/jianxing-poster.webp)
 
 ## 产品界面
 - [工作台](assets/screenshots/01-workspace.png)
