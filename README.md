@@ -1,3 +1,5 @@
+> 当前完整源码、海报与答辩材料已迁移至 **[简行新公开仓库](https://github.com/xqcd77/jianxing)**。本页以下内容保留为早期界面展示，评测数字请以新仓库2026-10-28冻结记录为准。
+
 <div align="center">
 
 # 简行 · Jianxing
